@@ -1,0 +1,8 @@
+King
+Triple
+Single
+Triple
+Twin
+Single
+Double
+Queen
